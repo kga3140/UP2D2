@@ -32,7 +32,8 @@ public class GunSc : MonoBehaviour
         if (rb != null)
         {
             rb.AddForce(direction * force, ForceMode2D.Impulse);
-        }
+			rb.AddTorque(force*2, ForceMode2D.Impulse);
+		}
     }
 }
 
