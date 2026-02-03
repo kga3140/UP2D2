@@ -2138,8 +2138,8 @@ Transform:
   m_GameObject: {fileID: 193626582}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0.008726557, z: -0, w: 0.9999619}
-  m_LocalPosition: {x: -1.5312587, y: -1.4100823, z: -0.026823653}
-  m_LocalScale: {x: 3.0305245, y: 2.94869, z: 0.94657594}
+  m_LocalPosition: {x: 0, y: -3.74, z: 0}
+  m_LocalScale: {x: 3, y: 3, z: 3}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 639720404}
@@ -5528,8 +5528,8 @@ Transform:
   m_GameObject: {fileID: 604178635}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0.008726557, z: -0, w: 0.9999619}
-  m_LocalPosition: {x: -1.5715652, y: -1.1225822, z: -0.027527206}
-  m_LocalScale: {x: 3.0325365, y: 1.754668, z: 0.94657594}
+  m_LocalPosition: {x: 0, y: -3.74, z: 0}
+  m_LocalScale: {x: 3, y: 3, z: 3}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 639720404}
@@ -5685,8 +5685,8 @@ Transform:
   m_GameObject: {fileID: 623777300}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0.008726557, z: -0, w: 0.9999619}
-  m_LocalPosition: {x: -1.5053878, y: 1.7649177, z: -0.026372075}
-  m_LocalScale: {x: 3.0181074, y: 0.94657594, z: 0.94657594}
+  m_LocalPosition: {x: 0, y: -3.74, z: 0}
+  m_LocalScale: {x: 3, y: 3, z: 3}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 639720404}
@@ -43924,6 +43924,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cut Sapphire
       objectReference: {fileID: 0}
+    - target: {fileID: 7099641751351971568, guid: 9c6206c4b711f254f9deb95217915268, type: 3}
+      propertyPath: m_TagString
+      value: Cut Sapphire
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -44116,6 +44120,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gold Nugget
       objectReference: {fileID: 0}
+    - target: {fileID: 3927051005296776792, guid: 64b5743ab96bc9d44a0e734f5aebf639, type: 3}
+      propertyPath: m_TagString
+      value: Gold Nugget
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -44171,6 +44179,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6698619448381946830, guid: 9bea78c88f9adc149b5e5ebb0bbc55fd, type: 3}
       propertyPath: m_Name
+      value: Silver Ingot
+      objectReference: {fileID: 0}
+    - target: {fileID: 6698619448381946830, guid: 9bea78c88f9adc149b5e5ebb0bbc55fd, type: 3}
+      propertyPath: m_TagString
       value: Silver Ingot
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -44230,6 +44242,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Copper Nugget
       objectReference: {fileID: 0}
+    - target: {fileID: 6364447958463161569, guid: ea3d15522ddf3d84380b8ba88f5443c0, type: 3}
+      propertyPath: m_TagString
+      value: Copper nugget
+      objectReference: {fileID: 0}
     - target: {fileID: 8413338740032246359, guid: ea3d15522ddf3d84380b8ba88f5443c0, type: 3}
       propertyPath: m_SortingOrder
       value: 5
@@ -44264,6 +44280,10 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 378721153820068020, guid: ede62feabc6ef214d85b9d7a51ffbbc5, type: 3}
       propertyPath: m_Name
+      value: Cut Ruby
+      objectReference: {fileID: 0}
+    - target: {fileID: 378721153820068020, guid: ede62feabc6ef214d85b9d7a51ffbbc5, type: 3}
+      propertyPath: m_TagString
       value: Cut Ruby
       objectReference: {fileID: 0}
     - target: {fileID: 3334923048931707431, guid: ede62feabc6ef214d85b9d7a51ffbbc5, type: 3}
@@ -44323,6 +44343,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Emerald
       objectReference: {fileID: 0}
+    - target: {fileID: 1813715549348796441, guid: bfd9ccbe6d2fd3045bfb5feda3074add, type: 3}
+      propertyPath: m_TagString
+      value: Raw Emerald
+      objectReference: {fileID: 0}
     - target: {fileID: 8631711005153556452, guid: bfd9ccbe6d2fd3045bfb5feda3074add, type: 3}
       propertyPath: m_LocalPosition.x
       value: 172
@@ -44378,6 +44402,10 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 828498940643902919, guid: d280c6b240efc384492669861e952197, type: 3}
       propertyPath: m_Name
+      value: Obsidian
+      objectReference: {fileID: 0}
+    - target: {fileID: 828498940643902919, guid: d280c6b240efc384492669861e952197, type: 3}
+      propertyPath: m_TagString
       value: Obsidian
       objectReference: {fileID: 0}
     - target: {fileID: 4139425543138965017, guid: d280c6b240efc384492669861e952197, type: 3}
@@ -44476,6 +44504,10 @@ PrefabInstance:
     - target: {fileID: 7438648569668732614, guid: c43e080d1a4d7a54092ac1d166e4777d, type: 3}
       propertyPath: m_Name
       value: Copper Ingot
+      objectReference: {fileID: 0}
+    - target: {fileID: 7438648569668732614, guid: c43e080d1a4d7a54092ac1d166e4777d, type: 3}
+      propertyPath: m_TagString
+      value: Copper ingot
       objectReference: {fileID: 0}
     - target: {fileID: 8131756800942621137, guid: c43e080d1a4d7a54092ac1d166e4777d, type: 3}
       propertyPath: m_SortingOrder
@@ -44616,6 +44648,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Silver Nugget
       objectReference: {fileID: 0}
+    - target: {fileID: 8945567412128205495, guid: 55b3ca3b9e9fc624fbe3b058f43f5b77, type: 3}
+      propertyPath: m_TagString
+      value: Silver Nugget
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -44686,6 +44722,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5608893019184844647, guid: e2e8274e5b717b04c8789f74534752fd, type: 3}
       propertyPath: m_Name
+      value: Pearl
+      objectReference: {fileID: 0}
+    - target: {fileID: 5608893019184844647, guid: e2e8274e5b717b04c8789f74534752fd, type: 3}
+      propertyPath: m_TagString
       value: Pearl
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -44781,6 +44821,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Crystal
       objectReference: {fileID: 0}
+    - target: {fileID: 6690186450867942867, guid: d291df609af7fcd4c8917bfa8917fe29, type: 3}
+      propertyPath: m_TagString
+      value: Crystal
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -44838,6 +44882,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cut Emerald
       objectReference: {fileID: 0}
+    - target: {fileID: 8820152240560112881, guid: 13ec0649da3c18a468c895450b7ccb6d, type: 3}
+      propertyPath: m_TagString
+      value: Cut Emerald
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -44853,6 +44901,10 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 975939792300154130, guid: bf69bf9fcf62715488d76bf068185604, type: 3}
       propertyPath: m_Name
+      value: Diamond
+      objectReference: {fileID: 0}
+    - target: {fileID: 975939792300154130, guid: bf69bf9fcf62715488d76bf068185604, type: 3}
+      propertyPath: m_TagString
       value: Diamond
       objectReference: {fileID: 0}
     - target: {fileID: 5655635827738742817, guid: bf69bf9fcf62715488d76bf068185604, type: 3}
@@ -45032,6 +45084,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Sapphire
       objectReference: {fileID: 0}
+    - target: {fileID: 4306321401332939589, guid: 4df3ea1c6916d2d49a9417ff12d5b8db, type: 3}
+      propertyPath: m_TagString
+      value: Raw Sapphire
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -45047,6 +45103,10 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2072565097497053698, guid: e1d2be2a4c36b08439955aef926f9eec, type: 3}
       propertyPath: m_Name
+      value: Golden Ingot
+      objectReference: {fileID: 0}
+    - target: {fileID: 2072565097497053698, guid: e1d2be2a4c36b08439955aef926f9eec, type: 3}
+      propertyPath: m_TagString
       value: Golden Ingot
       objectReference: {fileID: 0}
     - target: {fileID: 7178754501530535324, guid: e1d2be2a4c36b08439955aef926f9eec, type: 3}
@@ -45106,6 +45166,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Topaz
       objectReference: {fileID: 0}
+    - target: {fileID: 6460241346406475038, guid: 52f090e83e54c2042a98b2eef686c942, type: 3}
+      propertyPath: m_TagString
+      value: Raw Topaz
+      objectReference: {fileID: 0}
     - target: {fileID: 8672432662504417437, guid: 52f090e83e54c2042a98b2eef686c942, type: 3}
       propertyPath: m_LocalPosition.x
       value: 181
@@ -45162,6 +45226,10 @@ PrefabInstance:
     - target: {fileID: 2522851634216497687, guid: de59f46dc65d8e847b8f8ba67947a13b, type: 3}
       propertyPath: m_Name
       value: Ruby
+      objectReference: {fileID: 0}
+    - target: {fileID: 2522851634216497687, guid: de59f46dc65d8e847b8f8ba67947a13b, type: 3}
+      propertyPath: m_TagString
+      value: Raw Ruby
       objectReference: {fileID: 0}
     - target: {fileID: 4207210024910192905, guid: de59f46dc65d8e847b8f8ba67947a13b, type: 3}
       propertyPath: m_LocalPosition.x
@@ -45275,6 +45343,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8506125978709788900, guid: e38ede2f1d8418f4486f5e62cbc3e6c4, type: 3}
       propertyPath: m_Name
+      value: Cut Topaz
+      objectReference: {fileID: 0}
+    - target: {fileID: 8506125978709788900, guid: e38ede2f1d8418f4486f5e62cbc3e6c4, type: 3}
+      propertyPath: m_TagString
       value: Cut Topaz
       objectReference: {fileID: 0}
     m_RemovedComponents: []

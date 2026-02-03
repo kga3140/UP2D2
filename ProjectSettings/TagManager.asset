@@ -7,6 +7,25 @@ TagManager:
   - Ground
   - Ground1
   - Destroyable
+  - Coal
+  - Copper ingot
+  - Copper nugget
+  - Crystal
+  - Cut Emerald
+  - Cut Ruby
+  - Cut Sapphire
+  - Cut Topaz
+  - Diamond
+  - Raw Emerald
+  - Gold Nugget
+  - Golden Ingot
+  - Obsidian
+  - Pearl
+  - Raw Ruby
+  - Raw Sapphire
+  - Silver Ingot
+  - Silver Nugget
+  - Raw Topaz
   layers:
   - Default
   - TransparentFX
