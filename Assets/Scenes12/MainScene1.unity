@@ -8319,7 +8319,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 536071244870314531, guid: 4c6f7f680d35ecb45bd66603fd0f3516, type: 3}
       propertyPath: lengthRange.y
-      value: 4
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 796464614996848182, guid: 4c6f7f680d35ecb45bd66603fd0f3516, type: 3}
       propertyPath: m_Name
